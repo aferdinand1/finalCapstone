@@ -1,0 +1,32 @@
+User overview
+
+The total number of users registered: 2
+
+The total number of tasks that have been generated and tracked: 2
+
+Task data for each user:
+
+Total number of tasks assigned to each user:
+
+admin: 1
+user: 1
+
+The percentage of the total number of tasks that have been assigned to each user: 
+
+admin: 50.0%
+user: 50.0%
+
+The percentage of tasks assigned to each user that have been completed: 
+
+admin: 0.0%
+user: 0.0%
+
+The percentage of tasks assigned to each user that must still be completed: 
+
+admin: 100.0%
+user: 100.0%
+
+The percentage of tasks assigned to each user that have not yet been completed and are overdue: 
+
+admin: 0.0%
+user: 0.0%
